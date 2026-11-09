@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-10-16T21:12:41.729724400</meta:creation-date><dc:date>2026-10-18T20:35:01.242070895</dc:date><meta:editing-duration>PT2M39S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/26.2.6.3$Linux_X86_64 LibreOffice_project/620$Build-3</meta:generator><meta:document-statistic meta:table-count="11" meta:image-count="1" meta:object-count="0" meta:page-count="4" meta:paragraph-count="102" meta:word-count="1112" meta:character-count="4007" meta:non-whitespace-character-count="3563"/></office:meta>
+ <office:meta><meta:creation-date>2026-10-16T21:12:41.729724400</meta:creation-date><dc:date>2026-10-26T11:42:35.216537447</dc:date><meta:editing-duration>PT8M3S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/26.2.6.3$Linux_X86_64 LibreOffice_project/620$Build-3</meta:generator><meta:document-statistic meta:table-count="19" meta:image-count="1" meta:object-count="0" meta:page-count="7" meta:paragraph-count="161" meta:word-count="1533" meta:character-count="6363" meta:non-whitespace-character-count="5595"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">97277</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">58810</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22627</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">16990</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22687</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16448</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">1789</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">108091</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7089</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">69010</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">97277</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22625</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">114265</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">58810</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22685</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">75256</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">176</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="WindowState" config:type="string">2502,106,1904,1290;1;,,,;</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">0,0,1905,1291;1;,,,;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1341839</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1797653</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -271,11 +271,19 @@
    <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2362in" fo:text-indent="-0.2362in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
   <style:style style:name="Graphics" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" draw:fill="none"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -329,7 +337,7 @@
     </style:list-level-properties>
    </text:outline-level-style>
   </text:outline-style>
-  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
   <style:style style:name="Default_20_Style.1" style:display-name="Default Style.1" style:family="table-cell">
@@ -418,7 +426,7 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="FirstHeader" style:family="table">
-   <style:table-properties style:width="7.4986in" table:align="left" style:shadow="none" style:may-break-between-rows="true" table:border-model="collapsing"/>
+   <style:table-properties style:width="7.4986in" table:align="left" style:may-break-between-rows="true" table:border-model="collapsing"/>
   </style:style>
   <style:style style:name="FirstHeader.A" style:family="table-column">
    <style:table-column-properties style:column-width="1.284in"/>
@@ -488,7 +496,82 @@
   <style:style style:name="Description.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Description.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Description.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table9" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table9.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table9.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table9.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table10" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table10.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table10.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table10.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table11" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table11.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table11.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table11.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table14" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table14.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table14.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table14.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table15" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table15.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table15.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table15.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table16" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table16.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table16.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table16.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table2" style:family="table">
@@ -497,7 +580,34 @@
   <style:style style:name="Table2.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table2.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table2.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table12" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table12.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table12.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table12.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table13" style:family="table">
+   <style:table-properties style:width="7.5in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table13.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table13.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="Table13.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
   <style:style style:name="Table3" style:family="table">
@@ -505,6 +615,9 @@
   </style:style>
   <style:style style:name="Table3.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table3.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Table3.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
@@ -515,6 +628,9 @@
   <style:style style:name="Table4.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table4.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table4.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
@@ -523,6 +639,9 @@
   </style:style>
   <style:style style:name="Table5.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table5.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Table5.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
@@ -533,6 +652,9 @@
   <style:style style:name="Table6.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table6.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table6.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
@@ -542,6 +664,9 @@
   <style:style style:name="Table7.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table7.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table7.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
@@ -550,6 +675,9 @@
   </style:style>
   <style:style style:name="Table8.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table8.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.75in" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Table8.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
@@ -647,66 +775,142 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties officeooo:paragraph-rsid="000e480c"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00161f9a"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="000e480c"/>
+   <style:text-properties officeooo:paragraph-rsid="00161f9a"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="000faa56"/>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000e480c" officeooo:paragraph-rsid="00181b1a"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="000faa56"/>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00181b1a" officeooo:paragraph-rsid="00181b1a"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="000faa56"/>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="00181b1a" officeooo:paragraph-rsid="00181b1a"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0011595e" officeooo:paragraph-rsid="0011595e"/>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00181b1a" officeooo:paragraph-rsid="00181b1a"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0019bd18" officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0011595e" officeooo:paragraph-rsid="0011595e"/>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:rsid="0019bd18" officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000e480c"/>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="00161f9a"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="00112403"/>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0019bd18" officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="00161f9a"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="00112403"/>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0019bd18" officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="0011595e"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00134b90" officeooo:paragraph-rsid="00134b90"/>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000faa56"/>
+   <style:text-properties officeooo:paragraph-rsid="0019bd18"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000e480c"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="000faa56"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00134b90" officeooo:paragraph-rsid="00134b90"/>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="000faa56"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00134b90"/>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="000faa56"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="0011595e" officeooo:paragraph-rsid="0011595e"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000e480c"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="0011595e" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0011595e" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0019bd18" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00134b90" officeooo:paragraph-rsid="0019bd18"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="00112403"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="000faa56" officeooo:paragraph-rsid="00112403"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="0011595e"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="00134b90" officeooo:paragraph-rsid="00134b90"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000faa56"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000faa56"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00134b90" officeooo:paragraph-rsid="00134b90"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00134b90"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8">
    <style:text-properties officeooo:rsid="00112403" officeooo:paragraph-rsid="00112403"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -752,21 +956,33 @@
    <style:text-properties officeooo:rsid="000858ed"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="000faa56"/>
+   <style:text-properties officeooo:rsid="00161f9a"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" officeooo:rsid="000faa56" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
+   <style:text-properties officeooo:rsid="00181b1a"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="0011595e"/>
+   <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="00134b90"/>
+   <style:text-properties officeooo:rsid="0019bd18"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" officeooo:rsid="0011595e" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
+   <style:text-properties officeooo:rsid="000faa56"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" officeooo:rsid="000faa56" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="00134b90"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="0011595e"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" officeooo:rsid="0011595e" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
    <style:text-properties fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" officeooo:rsid="00134b90" style:font-name-asian="Microsoft YaHei" style:font-name-complex="Lucida Sans1"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -1082,6 +1298,192 @@
     <style:text-properties fo:font-family="OpenSymbol"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L8">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.5in" fo:margin-bottom="0.5in" fo:margin-left="0.5in" fo:margin-right="0.5in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:columns fo:column-count="1" fo:column-gap="0in">
@@ -1139,7 +1541,7 @@
      <table:table-column table:style-name="Footer.A" table:number-columns-repeated="3"/>
      <table:table-row table:style-name="Footer.1">
       <table:table-cell table:style-name="Footer.A1" office:value-type="string">
-       <text:p text:style-name="P9"><text:span text:style-name="T2">Page: </text:span><text:bookmark-start text:name="PageNumWizard_FOOTER_Default Page Style1"/><text:page-number text:select-page="current">4</text:page-number><text:s/>/ <text:page-count>4</text:page-count><text:bookmark-end text:name="PageNumWizard_FOOTER_Default Page Style1"/></text:p>
+       <text:p text:style-name="P9"><text:span text:style-name="T2">Page: </text:span><text:bookmark-start text:name="PageNumWizard_FOOTER_Default Page Style1"/><text:page-number text:select-page="current">7</text:page-number><text:s/>/ <text:page-count>7</text:page-count><text:bookmark-end text:name="PageNumWizard_FOOTER_Default Page Style1"/></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Footer.A1" office:value-type="string">
        <text:p text:style-name="P10">Remember You</text:p>
@@ -1399,7 +1801,8 @@
    <text:h text:style-name="P23" text:outline-level="1"><text:soft-page-break/></text:h>
    <text:h text:style-name="P24" text:outline-level="1"><text:span text:style-name="T11">Description</text:span> <text:span text:style-name="T12">·</text:span><text:span text:style-name="T13"> </text:span>説明</text:h>
    <table:table table:name="Description" table:style-name="Description">
-    <table:table-column table:style-name="Description.A" table:number-columns-repeated="2"/>
+    <table:table-column table:style-name="Description.A"/>
+    <table:table-column table:style-name="Description.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Description.A1" office:value-type="string">
       <text:p text:style-name="P25">Imagine you are a salaryman in Tokyo taking the same train to your office five days a week. Everyday you buy a cup of coffee from the same kiosk at the same station.</text:p>
@@ -1416,55 +1819,198 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P28" text:outline-level="1"><text:span text:style-name="T11">Project Phases </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> プロジェクトのフェーズ</text:span></text:h>
+   <text:p text:style-name="P28"/>
+   <text:h text:style-name="P29" text:outline-level="1"><text:span text:style-name="T15">Operational Description</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> </text:span></text:h>
+   <table:table table:name="Table9" table:style-name="Table9">
+    <table:table-column table:style-name="Table9.A"/>
+    <table:table-column table:style-name="Table9.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table9.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P30" text:outline-level="2"><text:span text:style-name="T16">Gather Screen</text:span> <text:span text:style-name="T17">·</text:span> </text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table9.A1" office:value-type="string">
+      <text:p text:style-name="P31">The system receives detected face images<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+         <text:p text:style-name="P32">For early demonstrations, ordinary cameras will deliver entire fields and the face engine will detect the potential faces.</text:p></text:note-body></text:note> from the camera(s). If the camera has not supplied them, facial vectors are generated for each usable face.</text:p>
+      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P31">Similar faces are grouped together and displayed on separate rows of the display. The operator my discard faces that are poor quality or not included in the correct row.</text:p>
+      <text:p text:style-name="P31"/>
+      <text:p text:style-name="P31">Once a sufficient number of faces are collected for a person, the facial database is searched.</text:p>
+      <text:list text:style-name="L1">
+       <text:list-item>
+        <text:p text:style-name="P33">If a high probability match is found, the key faces from the database are <text:span text:style-name="T18">displayed. This visit </text:span><text:soft-page-break/><text:span text:style-name="T18">is recorded in the database.</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P34">If the matched customer has qualified for a reward,<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+             <text:p text:style-name="P35">By rules set by the shop manager, see TBD.</text:p></text:note-body></text:note> the information is displayed for the clerk on the customer reward screen.</text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P34">If a high probability non-match is detected, the customers face vectors are enrolled in the database as a new customer. Note: This is completely anonymous, no personal information is stored for the customer.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P34">If there is no good probability result, the Query Screen is displayed.</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table9.A1" office:value-type="string">
+      <text:p text:style-name="P36"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P28"/>
+   <table:table table:name="Table10" table:style-name="Table10">
+    <table:table-column table:style-name="Table10.A"/>
+    <table:table-column table:style-name="Table10.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table10.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P37" text:outline-level="2">Customer Reward Screen</text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table10.A1" office:value-type="string">
+      <text:p text:style-name="P38">I</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table10.A1" office:value-type="string">
+      <text:p text:style-name="P36"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P28"/>
+   <table:table table:name="Table11" table:style-name="Table11">
+    <table:table-column table:style-name="Table11.A"/>
+    <table:table-column table:style-name="Table11.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table11.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P37" text:outline-level="2">Face Query Screen </text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table11.A1" office:value-type="string">
+      <text:p text:style-name="P38">I</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table11.A1" office:value-type="string">
+      <text:p text:style-name="P36"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P28"/>
+   <text:h text:style-name="P39" text:outline-level="1"><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T18">Databases</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> </text:span></text:h>
+   <text:p text:style-name="P40">SQLite databases will be stored on each handheld which will be synchronized with master databases via the RY Network.</text:p>
+   <table:table table:name="Table14" table:style-name="Table14">
+    <table:table-column table:style-name="Table14.A"/>
+    <table:table-column table:style-name="Table14.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table14.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P37" text:outline-level="2">Customer Visit Database</text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table14.A1" office:value-type="string">
+      <text:p text:style-name="P41">I</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table14.A1" office:value-type="string">
+      <text:p text:style-name="P42"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P43"/>
+   <table:table table:name="Table15" table:style-name="Table15">
+    <table:table-column table:style-name="Table15.A"/>
+    <table:table-column table:style-name="Table15.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table15.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P37" text:outline-level="2">Facial Recognition Databases</text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table15.A1" office:value-type="string">
+      <text:p text:style-name="P41">I</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table15.A1" office:value-type="string">
+      <text:p text:style-name="P42"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P43"/>
+   <text:h text:style-name="P39" text:outline-level="1"><text:soft-page-break/><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T18">Network</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> </text:span></text:h>
+   <text:p text:style-name="P40">The Remember You Network...</text:p>
+   <table:table table:name="Table16" table:style-name="Table16">
+    <table:table-column table:style-name="Table16.A"/>
+    <table:table-column table:style-name="Table16.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table16.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P37" text:outline-level="2">N</text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table16.A1" office:value-type="string">
+      <text:p text:style-name="P41">I</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table16.A1" office:value-type="string">
+      <text:p text:style-name="P42"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P43"/>
+   <text:h text:style-name="P44" text:outline-level="1"><text:span text:style-name="T11">Project Phases </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> プロジェクトのフェーズ</text:span></text:h>
    <table:table table:name="Table2" table:style-name="Table2">
-    <table:table-column table:style-name="Table2.A" table:number-columns-repeated="2"/>
+    <table:table-column table:style-name="Table2.A"/>
+    <table:table-column table:style-name="Table2.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase 0</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">0</text:span>: <text:span text:style-name="T15">10/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Preparation</text:span></text:h>
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase 0</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">0</text:span>: <text:span text:style-name="T19">10/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Preparation</text:span></text:h>
      </table:table-cell>
      <table:covered-table-cell/>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P30">Includes:</text:p>
-      <text:list xml:id="list130107627" text:style-name="L1">
+      <text:p text:style-name="P46">Includes:</text:p>
+      <text:list xml:id="list1338133547" text:style-name="L2">
        <text:list-item>
-        <text:p text:style-name="P31">Development System Setup</text:p>
+        <text:p text:style-name="P47">Development System Setup</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P31">Obtain (2) High-End Tablets</text:p>
+        <text:p text:style-name="P48">Obtain (2) <text:span text:style-name="T18">international demonstration laptops</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P31">Start Embedded Camera Research</text:p>
+        <text:p text:style-name="P48">Obtain (2) High-End Tablets</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P32">Demo Laptop Sent to Japan</text:p>
+        <text:p text:style-name="P47">Start Embedded Camera Research</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P31">Start Collecting Sample Video Streams <text:span text:style-name="T17">in Japan</text:span></text:p>
+        <text:p text:style-name="P48"/>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P30"/>
-      <text:p text:style-name="P30">Budget:</text:p>
-      <text:list text:style-name="L2">
+      <text:p text:style-name="P46"/>
+      <text:p text:style-name="P46">Budget:</text:p>
+      <text:list text:style-name="L3">
        <text:list-item>
-        <text:p text:style-name="P33">System Upgrade: $3,800 (Paid CIRC)</text:p>
+        <text:p text:style-name="P49"><text:span text:style-name="T18">Dev </text:span>System Upgrade: $3,800 (Paid CIRC)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P33">Tablets: $<text:span text:style-name="T18">300 each</text:span> (Paid Wada)</text:p>
+        <text:p text:style-name="P49">Tablets: $<text:span text:style-name="T21">300 each</text:span> (Paid Wada)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34">Laptop for Demonstration in Japan: $1,000?</text:p>
+        <text:p text:style-name="P50"><text:span text:style-name="T18">(2) </text:span>Laptop<text:span text:style-name="T18">s</text:span> for Demonstration: $1,000? <text:span text:style-name="T18">ea</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P33">Ordinary Japanese Web Camera: <text:span text:style-name="T17">$100?</text:span></text:p>
+        <text:p text:style-name="P49">Ordinary Japanese Web Camera: <text:span text:style-name="T22">$100?</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34">Test System in US (supplied by CIRC)</text:p>
+        <text:p text:style-name="P50">Test System in US (supplied by CIRC)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P34">Ordinary US Web Camera (supplied by CIRC)</text:p>
+        <text:p text:style-name="P50">Ordinary US Web Camera (supplied by CIRC)</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -1473,275 +2019,413 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P35"/>
-   <table:table table:name="Table3" table:style-name="Table3">
-    <table:table-column table:style-name="Table3.A" table:number-columns-repeated="2"/>
-    <text:soft-page-break/>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P43"/>
+   <text:h text:style-name="P39" text:outline-level="1"><text:span text:style-name="T11">Project Phases </text:span><text:span text:style-name="T12">·</text:span><text:span text:style-name="T11"> プロジェクトのフェーズ</text:span></text:h>
+   <table:table table:name="Table12" table:style-name="Table12">
+    <table:table-column table:style-name="Table12.A"/>
+    <table:table-column table:style-name="Table12.B"/>
     <table:table-row>
-     <table:table-cell table:style-name="Table3.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">1</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">1</text:span>: <text:span text:style-name="T15">11/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T19">Laptop</text:span><text:span text:style-name="T16"> Demonstration</text:span></text:h>
+     <table:table-cell table:style-name="Table12.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P52" text:outline-level="2"><text:span text:style-name="T11">Phase 0</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">0</text:span>: <text:span text:style-name="T19">10/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Preparation</text:span></text:h>
      </table:table-cell>
      <table:covered-table-cell/>
     </table:table-row>
     <table:table-row>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list xml:id="list203502551078084" text:continue-list="list130107627" text:style-name="L1">
+     <table:table-cell table:style-name="Table12.A1" office:value-type="string">
+      <text:p text:style-name="P41">Includes:</text:p>
+      <text:list xml:id="list114236006101217" text:continue-list="list1338133547" text:style-name="L2">
        <text:list-item>
-        <text:p text:style-name="P37">Linux Desktop Demo Development</text:p>
+        <text:p text:style-name="P48">Development System Setup</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P37">Test Integration with Tablets</text:p>
+        <text:p text:style-name="P48">Obtain (2) <text:span text:style-name="T18">international demonstration laptops</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P38"><text:span text:style-name="T8">Select </text:span>Embedded Camera <text:span text:style-name="T8">Partner</text:span></text:p>
+        <text:p text:style-name="P48">Obtain (2) High-End Tablets</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P38"><text:span text:style-name="T8">Continue </text:span>Collecting Sample Video Streams</text:p>
+        <text:p text:style-name="P48">Start Embedded Camera Research</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P48"/>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
-      <text:list xml:id="list2028274575" text:style-name="L3">
+      <text:p text:style-name="P41"><text:soft-page-break/></text:p>
+      <text:p text:style-name="P41">Budget:</text:p>
+      <text:list text:style-name="L4">
        <text:list-item>
-        <text:p text:style-name="P39">CIRC Development: $4,000</text:p>
+        <text:p text:style-name="P53"><text:span text:style-name="T18">Dev </text:span>System Upgrade: $3,800 (Paid CIRC)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P39">Necessary Equipment: $1,000</text:p>
+        <text:p text:style-name="P53">Tablets: $<text:span text:style-name="T21">300 each</text:span> (Paid Wada)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P39">(2) Embedded Cameras <text:span text:style-name="T17">(US)</text:span>: $500 each</text:p>
+        <text:p text:style-name="P54"><text:span text:style-name="T18">(2) </text:span>Laptop<text:span text:style-name="T18">s</text:span> for Demonstration: $1,000? <text:span text:style-name="T18">ea</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P40">(2) Embedded Cameras <text:span text:style-name="T17">(JPN)</text:span>: $500 each</text:p>
+        <text:p text:style-name="P53">Ordinary Japanese Web Camera: <text:span text:style-name="T22">$100?</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P41">Embedded Camera license fee: TBD</text:p>
+        <text:p text:style-name="P54">Test System in US (supplied by CIRC)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P39">Other TBD</text:p>
+        <text:p text:style-name="P54">Ordinary US Web Camera (supplied by CIRC)</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
-     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+     <table:table-cell table:style-name="Table12.A1" office:value-type="string">
       <text:p text:style-name="P42"/>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="P43"/>
-   <table:table table:name="Table4" table:style-name="Table4">
-    <table:table-column table:style-name="Table4.A" table:number-columns-repeated="2"/>
+   <table:table table:name="Table13" table:style-name="Table13">
+    <table:table-column table:style-name="Table13.A"/>
+    <table:table-column table:style-name="Table13.B"/>
     <table:table-row>
-     <table:table-cell table:style-name="Table4.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">2</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">2</text:span>: <text:span text:style-name="T15">12/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Tablet Demonstration</text:span></text:h>
+     <table:table-cell table:style-name="Table13.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P52" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">1</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">1</text:span>: <text:span text:style-name="T19">11/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T23">Laptop</text:span><text:span text:style-name="T20"> Demonstration</text:span></text:h>
      </table:table-cell>
      <table:covered-table-cell/>
     </table:table-row>
     <table:table-row>
-     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list xml:id="list203503198160152" text:continue-list="list203502551078084" text:style-name="L1">
+     <table:table-cell table:style-name="Table13.A1" office:value-type="string">
+      <text:p text:style-name="P41">Includes:</text:p>
+      <text:list xml:id="list114237030881059" text:continue-list="list114236006101217" text:style-name="L2">
        <text:list-item>
-        <text:p text:style-name="P37">Android Tablet Demo Development</text:p>
+        <text:p text:style-name="P55">Linux Desktop Demo Development</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P38">Embedded Camera <text:span text:style-name="T17">Implementation</text:span></text:p>
+        <text:p text:style-name="P55">Test Integration with Tablets</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P38"><text:span text:style-name="T17">Save</text:span> Video Streams <text:span text:style-name="T17">from Demonstrations</text:span></text:p>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
-      <text:list xml:id="list203502382995636" text:continue-list="list2028274575" text:style-name="L3">
-       <text:list-item>
-        <text:p text:style-name="P39">CIRC Development: $4,000</text:p>
+        <text:p text:style-name="P48"><text:span text:style-name="T8">Select </text:span>Embedded Camera <text:span text:style-name="T8">Partner</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P39">Necessary Equipment: $1,000</text:p>
+        <text:p text:style-name="P56">Demo Laptop Sent to Japan</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P41">(10) High-End Japanese Tablets: $250 each</text:p>
+        <text:p text:style-name="P48">Start Collecting Sample Video Streams <text:span text:style-name="T22">in Japan</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P40">(<text:span text:style-name="T17">15</text:span>) Embedded Cameras <text:span text:style-name="T17">(JPN)</text:span>: $500 each</text:p>
+        <text:p text:style-name="P57">Research coupon printers for Japanese market</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P39">Other TBD</text:p>
+        <text:p text:style-name="P48"/>
        </text:list-item>
       </text:list>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="P42"/>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
-   <text:p text:style-name="P43"/>
-   <table:table table:name="Table5" table:style-name="Table5">
-    <table:table-column table:style-name="Table5.A" table:number-columns-repeated="2"/>
-    <table:table-row>
-     <table:table-cell table:style-name="Table5.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">3</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">3</text:span>: <text:span text:style-name="T15">01/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Field Trials </text:span><text:span text:style-name="T20">&amp; Networking</text:span></text:h>
-     </table:table-cell>
-     <table:covered-table-cell/>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list xml:id="list203501965665687" text:continue-list="list203503198160152" text:style-name="L1">
-       <text:list-item>
-        <text:p text:style-name="P44">Server &amp; Network Development</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P44">Determine Production Tablet Specification</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P38"><text:span text:style-name="T18">Continue</text:span> Collecting <text:span text:style-name="T18">Demo</text:span> Video Streams</text:p>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
-      <text:list text:continue-list="list203502382995636" text:style-name="L3">
-       <text:list-item>
-        <text:p text:style-name="P39">CIRC Development: $4,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P45">DeltaCode Network Consulting: $1,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P39">Necessary Equipment: $<text:span text:style-name="T18">2</text:span>,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P39"><text:soft-page-break/>Other TBD</text:p>
-       </text:list-item>
-      </text:list>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="P42"/>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
-   <text:p text:style-name="P43"/>
-   <table:table table:name="Table6" table:style-name="Table6">
-    <table:table-column table:style-name="Table6.A" table:number-columns-repeated="2"/>
-    <table:table-row>
-     <table:table-cell table:style-name="Table6.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">4</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">4</text:span>: <text:span text:style-name="T15">02/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Network Encryption</text:span></text:h>
-     </table:table-cell>
-     <table:covered-table-cell/>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list xml:id="list203502119725009" text:continue-list="list203501965665687" text:style-name="L1">
-       <text:list-item>
-        <text:p text:style-name="P44">Implement Encryption at all points from the cloud to the end point tablets</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P44">Establish TelCo Partnership in Japan for Cloud Connectivity</text:p>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
-      <text:list xml:id="list2671818844" text:style-name="L4">
-       <text:list-item>
-        <text:p text:style-name="P46">CIRC Development: $4,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P46">DeltaCode Network Consulting: $1,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P46">Necessary Equipment <text:span text:style-name="T18">(TelCo Interface)</text:span>: $<text:span text:style-name="T18">2</text:span>,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P46">Other TBD</text:p>
-       </text:list-item>
-      </text:list>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="P42"/>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
-   <text:p text:style-name="P43"/>
-   <table:table table:name="Table7" table:style-name="Table7">
-    <table:table-column table:style-name="Table7.A" table:number-columns-repeated="2"/>
-    <table:table-row>
-     <table:table-cell table:style-name="Table7.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">5</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">5</text:span>: <text:span text:style-name="T15">03/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Rollout First Production</text:span></text:h>
-     </table:table-cell>
-     <table:covered-table-cell/>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list xml:id="list203503294726352" text:continue-list="list203502119725009" text:style-name="L1">
-       <text:list-item>
-        <text:p text:style-name="P44">Development stand-by for issues</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P44">Networking &amp; Security stand-by for issues</text:p>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
-      <text:list text:continue-list="list2671818844" text:style-name="L4">
-       <text:list-item>
-        <text:p text:style-name="P46">CIRC Development: $4,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P46">DeltaCode Network Consulting: $1,000</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P46">Other TBD</text:p>
-       </text:list-item>
-      </text:list>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="P42"/>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
-   <text:p text:style-name="P43"/>
-   <table:table table:name="Table8" table:style-name="Table8">
-    <table:table-column table:style-name="Table8.A" table:number-columns-repeated="2"/>
-    <table:table-row>
-     <table:table-cell table:style-name="Table8.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:h text:style-name="P29" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T15">6</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T15">6</text:span>: <text:span text:style-name="T15">04/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T16">Production Deliveries</text:span></text:h>
-     </table:table-cell>
-     <table:covered-table-cell/>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="P36">Includes:</text:p>
-      <text:list text:continue-list="list203503294726352" text:style-name="L1">
-       <text:list-item>
-        <text:p text:style-name="P44">Development stand-by for issues</text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p text:style-name="P44">Networking &amp; Security stand-by for issues</text:p>
-       </text:list-item>
-      </text:list>
-      <text:p text:style-name="P36"/>
-      <text:p text:style-name="P36">Budget:</text:p>
+      <text:p text:style-name="P41"/>
+      <text:p text:style-name="P41">Budget:</text:p>
       <text:list text:style-name="L5">
        <text:list-item>
-        <text:p text:style-name="P47">CIRC <text:span text:style-name="T18">&amp; DeltaCode</text:span> Development: $<text:span text:style-name="T18">2</text:span>,000</text:p>
+        <text:p text:style-name="P58">CIRC Development: $4,000</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P47">Necessary Equipment: $1,000</text:p>
+        <text:p text:style-name="P58">Necessary Equipment: $1,000</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P47">Other TBD</text:p>
+        <text:p text:style-name="P58">(2) Embedded Cameras <text:span text:style-name="T22">(US)</text:span>: $500 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P58">(2) Embedded Cameras <text:span text:style-name="T22">(JPN)</text:span>: $500 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P59">Embedded Camera license fee: TBD</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P58">Other TBD</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
-     <table:table-cell table:style-name="Table8.A1" office:value-type="string">
+     <table:table-cell table:style-name="Table13.A1" office:value-type="string">
       <text:p text:style-name="P42"/>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="P43"/>
+   <table:table table:name="Table3" table:style-name="Table3">
+    <table:table-column table:style-name="Table3.A"/>
+    <table:table-column table:style-name="Table3.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">1</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">1</text:span>: <text:span text:style-name="T19">11/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T23">Laptop</text:span><text:span text:style-name="T20"> Demonstration</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list xml:id="list114236444175782" text:continue-list="list114237030881059" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P61">Linux Desktop Demo Development</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P61">Test Integration with Tablets</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P62"><text:span text:style-name="T8">Select </text:span>Embedded Camera <text:span text:style-name="T8">Partner</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P56">Demo Laptop Sent to Japan</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P48">Start Collecting Sample Video Streams <text:span text:style-name="T22">in Japan</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P57">Research coupon printers for Japanese market</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P48"/>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60">Budget:</text:p>
+      <text:list xml:id="list3014485265" text:style-name="L6">
+       <text:list-item>
+        <text:p text:style-name="P63">CIRC Development: $4,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Necessary Equipment: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63"><text:soft-page-break/>(2) Embedded Cameras <text:span text:style-name="T22">(US)</text:span>: $500 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P64">(2) Embedded Cameras <text:span text:style-name="T22">(JPN)</text:span>: $500 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P65">Embedded Camera license fee: TBD</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
+   <table:table table:name="Table4" table:style-name="Table4">
+    <table:table-column table:style-name="Table4.A"/>
+    <table:table-column table:style-name="Table4.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table4.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">2</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">2</text:span>: <text:span text:style-name="T19">12/2026 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Tablet Demonstration</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list xml:id="list114237227127723" text:continue-list="list114236444175782" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P61">Android Tablet Demo Development</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P62">Embedded Camera <text:span text:style-name="T22">Implementation</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P62"><text:span text:style-name="T22">Save</text:span> Video Streams <text:span text:style-name="T22">from Demonstrations</text:span></text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60">Budget:</text:p>
+      <text:list xml:id="list114235767773166" text:continue-list="list3014485265" text:style-name="L6">
+       <text:list-item>
+        <text:p text:style-name="P63">CIRC Development: $4,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Necessary Equipment: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P65">(10) High-End Japanese Tablets: $250 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P64">(<text:span text:style-name="T22">15</text:span>) Embedded Cameras <text:span text:style-name="T22">(JPN)</text:span>: $500 each</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table4.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
+   <table:table table:name="Table5" table:style-name="Table5">
+    <table:table-column table:style-name="Table5.A"/>
+    <table:table-column table:style-name="Table5.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">3</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">3</text:span>: <text:span text:style-name="T19">01/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Field Trials </text:span><text:span text:style-name="T24">&amp; Networking</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list xml:id="list114236462922020" text:continue-list="list114237227127723" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P68">Server &amp; Network Development</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P68">Determine Production Tablet Specification</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P62"><text:span text:style-name="T21">Continue</text:span> Collecting <text:span text:style-name="T21">Demo</text:span> Video Streams</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60">Budget:</text:p>
+      <text:list text:continue-list="list114235767773166" text:style-name="L6">
+       <text:list-item>
+        <text:p text:style-name="P63">CIRC Development: $4,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P69">DeltaCode Network Consulting: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Necessary Equipment: $<text:span text:style-name="T21">2</text:span>,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P63">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table5.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
+   <table:table table:name="Table6" table:style-name="Table6">
+    <table:table-column table:style-name="Table6.A"/>
+    <table:table-column table:style-name="Table6.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table6.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">4</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">4</text:span>: <text:span text:style-name="T19">02/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Network Encryption</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table6.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list xml:id="list114235797990547" text:continue-list="list114236462922020" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P68">Implement Encryption at all points from the cloud to the end point tablets</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P68">Establish TelCo Partnership in Japan for Cloud Connectivity</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60"><text:soft-page-break/>Budget:</text:p>
+      <text:list xml:id="list2603988229" text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P70">CIRC Development: $4,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P70">DeltaCode Network Consulting: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P70">Necessary Equipment <text:span text:style-name="T21">(TelCo Interface)</text:span>: $<text:span text:style-name="T21">2</text:span>,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P70">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table6.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
+   <table:table table:name="Table7" table:style-name="Table7">
+    <table:table-column table:style-name="Table7.A"/>
+    <table:table-column table:style-name="Table7.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table7.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">5</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">5</text:span>: <text:span text:style-name="T19">03/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Rollout First Production</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table7.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list xml:id="list114237278211694" text:continue-list="list114235797990547" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P68">Development stand-by for issues</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P68">Networking &amp; Security stand-by for issues</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60">Budget:</text:p>
+      <text:list text:continue-list="list2603988229" text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P70">CIRC Development: $4,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P70">DeltaCode Network Consulting: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P70">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table7.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
+   <table:table table:name="Table8" table:style-name="Table8">
+    <table:table-column table:style-name="Table8.A"/>
+    <table:table-column table:style-name="Table8.B"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table8.A1" table:number-columns-spanned="2" office:value-type="string">
+      <text:h text:style-name="P45" text:outline-level="2"><text:span text:style-name="T11">Phase </text:span><text:span text:style-name="T19">6</text:span> <text:span text:style-name="T12">·</text:span>フェーズ <text:span text:style-name="T19">6</text:span>: <text:span text:style-name="T19">04/2027 </text:span><text:span text:style-name="T12">· </text:span><text:span text:style-name="T20">Production Deliveries</text:span></text:h>
+     </table:table-cell>
+     <table:covered-table-cell/>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table8.A1" office:value-type="string">
+      <text:p text:style-name="P60">Includes:</text:p>
+      <text:list text:continue-list="list114237278211694" text:style-name="L2">
+       <text:list-item>
+        <text:p text:style-name="P68">Development stand-by for issues</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P68">Networking &amp; Security stand-by for issues</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="P60"/>
+      <text:p text:style-name="P60">Budget:</text:p>
+      <text:list text:style-name="L8">
+       <text:list-item>
+        <text:p text:style-name="P71">CIRC <text:span text:style-name="T21">&amp; DeltaCode</text:span> Development: $<text:span text:style-name="T21">2</text:span>,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P71">Necessary Equipment: $1,000</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P71">Other TBD</text:p>
+       </text:list-item>
+      </text:list>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table8.A1" office:value-type="string">
+      <text:p text:style-name="P66"/>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P67"/>
   </office:text>
  </office:body>
 </office:document>
