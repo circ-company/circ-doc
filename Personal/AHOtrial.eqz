@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EqonomizeDoc>
+<EqonomizeDoc version="1.5.12" revision="1" lastid="39">
+	<budget_period>
+		<first_day_of_month>1</first_day_of_month>
+		<first_month_of_year>1</first_month_of_year>
+	</budget_period>
+	<currency code="USD"/>
+	<category type="expenses" name="Allowance" id="21" revisions="1">
+		<budget value="400" date="2026-11-01"/>
+	</category>
+	<account name="BA Checking 9604" id="2" revisions="1" currency="USD" initialbalance="29.52" type="current" bank="Bank America"/>
+	<account name="BA Savings 2016" id="3" revisions="1" currency="USD" initialbalance="5" type="savings" bank="Bank Amercica"/>
+	<category type="expenses" name="Bills" id="6" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+	</category>
+	<account name="Cash on Hand" id="1" revisions="1" currency="USD" initialbalance="20" type="cash"/>
+	<account name="Cash Stash" id="20" revisions="1" currency="USD" initialbalance="50" type="cash" group="Savings Accounts"/>
+	<category type="expenses" name="Clothing" id="7" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+	</category>
+	<category type="expenses" name="Groceries" id="8" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+	</category>
+	<category type="expenses" name="Household" id="23" revisions="1">
+		<category type="expenses" name="Misc Household Expense" id="24" revisions="1">
+			<budget value="100" date="2026-11-01"/>
+		</category>
+	</category>
+	<category type="expenses" name="Leisure" id="9" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+		<category type="expenses" name="Restaurant" id="26" revisions="1"/>
+	</category>
+	<category type="incomes" name="Mortgage" id="12" revisions="1">
+		<budget value="1511.52" date="2026-11-01"/>
+	</category>
+	<category type="expenses" name="Other" id="10" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+		<category type="expenses" name="Banking Expense" id="37" revisions="1"/>
+		<category type="expenses" name="CIRC Passthru" id="29" revisions="1"/>
+	</category>
+	<category type="incomes" name="Other" id="5" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+	</category>
+	<category type="expenses" name="Rent" id="13" revisions="1">
+		<budget value="900" date="2026-11-01"/>
+	</category>
+	<category type="incomes" name="Salary" id="4" revisions="1">
+		<budget value="-1" date="2026-11-01"/>
+	</category>
+	<category type="incomes" name="SSA Income" id="25" revisions="1">
+		<budget value="2000" date="2026-11-01"/>
+	</category>
+	<account name="Venmo Debit 787" id="11" revisions="1" currency="USD" initialbalance="0" type="cash" group="Checking"/>
+	<transaction type="income" date="2026-11-02" id="22" revisions="1" timestamp="1795491361" description="Check from Bailey Motors" income="282" category="5" to="2" payer="Bailey Motors"/>
+	<transaction type="expense" date="2026-11-02" id="28" revisions="1" timestamp="1795491661" cost="7.33" category="24" from="2" payee="Temu"/>
+	<transaction type="expense" date="2026-11-02" id="30" revisions="1" timestamp="1795491756" description="Proton Pro password manager" cost="23.88" category="29" from="2" payee="Proton AG"/>
+	<transaction type="transfer" date="2026-11-02" id="31" revisions="1" timestamp="1795491866" description="Cash Withdrawl" comment="Cash for Computer Purchase" amount="1600" from="2" to="1"/>
+	<transaction type="expense" date="2026-11-02" id="32" revisions="1" timestamp="1795491937" description="Computer Purchase" cost="1300" category="29" from="2" payee="Microcenter Santa Clara"/>
+	<transaction type="expense" date="2026-11-02" id="35" revisions="1" timestamp="1795492096" description="Food Stock" cost="26.18" category="8" from="2" payee="Jack Box Redding"/>
+	<transaction type="expense" date="2026-11-03" id="27" revisions="1" timestamp="1795491618" description="Food Stock" cost="22.58" category="8" from="11" payee="Jersey Mikes Redding"/>
+	<transaction type="income" date="2026-11-03" id="33" revisions="1" timestamp="1795491999" description="SSA Extra Payment" income="2539" category="25" to="2" payer="SSA"/>
+	<transaction type="expense" date="2026-11-03" id="34" revisions="1" timestamp="1795492044" cost="13.33" category="24" from="2" payee="DG FRM"/>
+	<transaction type="expense" date="2026-11-04" id="36" revisions="1" timestamp="1795492198" description="Office Chair" cost="41.76" category="29" from="2" payee="eBay"/>
+	<transaction type="transfer" date="2026-11-04" id="38" revisions="1" timestamp="1795492302" description="Venmo Recharge (for rent)" amount="500" from="2" to="11"/>
+	<transaction type="expense" date="2026-11-04" id="39" revisions="1" timestamp="1795492392" description="Venmo Recharge Fee (for rent)" cost="3.74" category="37" from="2" payee="Walmart"/>
+	<transaction type="income" date="2026-11-05" id="14" revisions="1" timestamp="1795488302" income="755.76" category="12" to="11" payer="Rob G"/>
+	<transaction type="expense" date="2026-11-05" id="16" revisions="1" timestamp="1795488350" cost="450" category="13" from="11" payee="John T"/>
+	<transaction type="expense" date="2026-11-20" id="18" revisions="1" timestamp="1795490313" cost="450" category="13" from="11" payee="John T"/>
+	<transaction type="income" date="2026-11-20" id="19" revisions="1" timestamp="1795490327" income="755.76" category="12" to="11" payer="Rob G"/>
+</EqonomizeDoc>

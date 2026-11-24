@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EqonomizeDoc>
+<EqonomizeDoc version="1.5.12" revision="1" lastid="11">
+	<budget_period>
+		<first_day_of_month>1</first_day_of_month>
+		<first_month_of_year>1</first_month_of_year>
+	</budget_period>
+	<currency code="USD"/>
+	<account name="BA Checking 9604" id="2" revisions="1" currency="USD" initialbalance="29.52" type="current" bank="Bank America"/>
+	<account name="BA Savings 2016" id="3" revisions="1" currency="USD" initialbalance="5" type="savings" bank="Bank Amercica"/>
+	<category type="expenses" name="Bills" id="6" revisions="1"/>
+	<account name="Cash on Hand" id="1" revisions="1" currency="USD" initialbalance="20" type="cash"/>
+	<category type="expenses" name="Clothing" id="7" revisions="1"/>
+	<category type="expenses" name="Groceries" id="8" revisions="1"/>
+	<category type="expenses" name="Leisure" id="9" revisions="1"/>
+	<category type="expenses" name="Other" id="10" revisions="1"/>
+	<category type="incomes" name="Other" id="5" revisions="1"/>
+	<category type="incomes" name="Salary" id="4" revisions="1"/>
+	<account name="Venmo Debit 787" id="11" revisions="1" currency="USD" initialbalance="0" type="cash" group="Checking"/>
+</EqonomizeDoc>
